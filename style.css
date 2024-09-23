@@ -8,9 +8,9 @@ h2 {
   text-align: center;
 }
 
-.colors {
+.colors, .fonts {
   padding: 0px 10px 20px;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 #seafoam, #seasmoke, #dreary {
@@ -37,4 +37,34 @@ h2 {
 #dreary {
   background-color: #D7DFDF;
   color: black;
+}
+
+/* Font Guide */
+
+table, th, td {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.table-head {
+  font-family: Montserrat;
+  text-align: center;
+  border: 3px solid black;
+  background-color: #D7DFDF
+}
+
+#montserrat-thin {
+  font-family: Montserrat;
+  font-weight: 100;
+}
+
+#montserrat500 {
+  font-family: Montserrat;
+  font-weight: 500;
 }
