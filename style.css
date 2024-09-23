@@ -6,16 +6,10 @@ h2 {
   font-family: Roboto;
   font-weight: 700;
 }
-
-.color-container {
-  margin: 50px;
-  text-align: left;
-}
   
 #seafoam, #seasmoke, #dreary {
   margin-left: 15px;
   width: 30%;
-  color: white;
   text-align: center;
   align-content: center;
   height: 125px;
