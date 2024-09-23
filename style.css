@@ -1,1 +1,38 @@
+h1 {
+  font-family: Roboto;
+}
 
+h2 {
+  font-family: Roboto;
+  font-weight: 700;
+}
+
+.color-container {
+  margin: 50px;
+  text-align: left;
+}
+  
+.color-container {
+  margin-left: 15px;
+  width: 30%;
+  color: white;
+  text-align: center;
+  align-content: center;
+  height: 125px;
+  display: inline-block;
+}
+
+#seafoam {
+  background-color: #398774;
+  color: white;
+}
+
+#seasmoke {
+  background-color: #5E6778;
+  color: white;
+}
+
+#dreary {
+  background-color: #D7DFDF;
+  color: black;
+}
